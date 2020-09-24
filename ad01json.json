@@ -1,0 +1,15 @@
+var books = `[{
+    
+    "title": "Javascript for Dummies",
+    "author": "Dummy Dumb Dumb",
+    "read": "true",
+    "img": "<img src='Javascript_for_Dummies.jpg'>"
+    
+  },{
+    
+    "title": "Javascript for Kids",
+    "author": "Dummy Dumb Dumb",
+    "read": "false",
+    "img": "<img src='Javascript_for_Kids.jpg'>"
+    
+  }]`
