@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+
+<div id="box">
+    
+    
+    
+</div>
+
+<script>
+    
+    var sandwiches = `{
+    
+    "sandwich": "hamburger",
+    "calories": "260"
+    
+    }`;
+
+    var fries = `{
+    
+    "fries_size": "Large French Fries",
+    "calories": "570"
+    
+    }`;
+    
+    var x =  JSON.parse(sandwiches);
+    
+    var a = JSON.parse(fries);
+    
+    //console.table(x[1]);
+    
+    //console.table(a); 
+    
+    //for(var i = 0 ; i < x.length; i++){
+        
+    document.getElementById("box").innerHTML = "My favorite sandwich is " +  x.sandwich + " which has approximately " + x.calories + " calories, along with it I enjoy eating " + a.fries_size + " which have about " + a.calories + " calories.";
+        
+    //};
+    
+</script>
+
+</body>
+</html>
