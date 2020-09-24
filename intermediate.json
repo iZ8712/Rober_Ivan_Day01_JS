@@ -1,0 +1,71 @@
+var employees =`[{
+	"UniqueID":"1001",
+	"FirstName": "Klaus",
+	"LastName": "Mayer",
+	"Emailaddress" : "klaus.mayer@gmail.com",
+	"JobTitle": "WebDeveloper",
+	"Salary": "3.000€"
+},{
+	"UniqueID":"1002",
+	"FirstName": "Martin",
+	"LastName": "Fritz",
+	"Emailaddress" : "martin.fritz@gmail.com",
+	"JobTitle": "Consultant",
+	"Salary": "2.500€"
+},{
+	"UniqueID":"1003",
+	"FirstName": "Klaus",
+	"LastName": "Mayer",
+	"Emailaddress" : "klaus.mayer@gmail.com",
+	"JobTitle": "WebDeveloper",
+	"Salary": "3.000€"
+},{
+	"UniqueID":"1004",
+	"FirstName": "Klemens",
+	"LastName": "Franz",
+	"Emailaddress" : "klemens.franz@gmail.com",
+	"JobTitle": "Recruiter",
+	"Salary": "3.500€"
+},{
+	"UniqueID":"1005",
+	"FirstName": "Thomas",
+	"LastName": "Adamek",
+	"Emailaddress" : "thomas.adamek@gmail.com",
+	"JobTitle": "Manager",
+	"Salary": "4.000€"
+},{
+	"UniqueID":"1006",
+	"FirstName": "Paul",
+	"LastName": "Glavas",
+	"Emailaddress" : "paul.glavas@gmail.com",
+	"JobTitle": "Ingenier",
+	"Salary": "3.000€"
+},{
+	"UniqueID":"1007",
+	"FirstName": "Nikolas",
+	"LastName": "Maxim",
+	"Emailaddress" : "nikolas.maxim@gmail.com",
+	"JobTitle": "Architect",
+	"Salary": "4.500€"
+},{
+	"UniqueID":"1008",
+	"FirstName": "Isabella",
+	"LastName": "Maierhofer",
+	"Emailaddress" : "isabella.maierhofer@gmail.com",
+	"JobTitle": "WebDeveloper",
+	"Salary": "4.000€"
+},{
+	"UniqueID":"1009",
+	"FirstName": "Nikole",
+	"LastName": "Nikolic",
+	"Emailaddress" : "nicole.nikolic@gmail.com",
+	"JobTitle": "ProjectManager",
+	"Salary": "4.000€"
+},{
+	"UniqueID":"1010",
+	"FirstName": "Maria",
+	"LastName": "Kirchner",
+	"Emailaddress" : "maria.kirchner@gmail.com",
+	"JobTitle": "SeniorWebDeveloper",
+	"Salary": "4.500€"
+}]`;
